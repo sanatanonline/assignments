@@ -11,6 +11,8 @@ This assignment is to:
 
  - Develop an **Rmarkdown Template** for a *Formal Problem Statement* , and
  - Use that template to write a *Formal Problem Statement* for your class project.
+   - Name it *formal-problem-statement.(md|html|pdf)* and place it in the 
+    `01-formal-problem-statement` folder. 
 
 
 To recieve credit, you must knit the **FPS** as HTML 
