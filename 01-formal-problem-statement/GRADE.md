@@ -14,6 +14,7 @@ FPS Should:
    
  - [ ] Identify key roles: management, owners, stakeholders, users, SMEs, etc.
  - [ ] Clearly articulate **why** the project is being considered
+ - [ ] Identified "current"" state.
 
  - Define project's success
    - [ ] State what the analysis would do
