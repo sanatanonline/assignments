@@ -43,6 +43,8 @@ FPS Should:
    - [ ] **When** you need or expect to have determined whether the model performance 
    - [ ] How much effort it will take to deploy the solutions.
 
+ - [ ] Is free of grammar/spelling/punctuation mistakes
+ 
 
 ## NOTES
 
