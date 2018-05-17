@@ -33,6 +33,8 @@ Testing:
 Assignment
 ----------
 
+### Part I: Project Consolidation
+
 -   Begin consolidating your work into **your** fork of <https://github.com/csx415/project>. Please name it ""csx415-project".
 
 -   Train a more advanced model such as one using boosting or bagging: popular models here are Neural Networks, RandomForest, SVM, Gradient Boosted Trees, etc.
@@ -47,6 +49,13 @@ Assignment
 -   Use the *testthat* package to create a small test for the model to ensure that it works
 -   Copy a knitted model performance report into the package. For ease, place it in the `inst/` directory.
 -   Build your packages and place the built package in the `pkgs/` directory.
+
+### PART II: More Data
+
+-   Identify an additional data set or table that informs your problem.
+-   Incorporate this into your project.
+-   How this data is encorporated with existing data? What types of joining have to be done ... think **LEFT JOIN**s
+-   What are you going to do with **NULL** values that are going to get introduced. Develop and imputation strategy.
 
 ### Notes:
 
